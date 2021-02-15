@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.UIElements;
+using Image = UnityEngine.UI.Image;
 
 public class AlphaButtonClickMask : MonoBehaviour, ICanvasRaycastFilter 
 {

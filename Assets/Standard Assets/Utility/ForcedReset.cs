@@ -2,7 +2,9 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.UIElements;
 using UnityStandardAssets.CrossPlatformInput;
+using Image = UnityEngine.UI.Image;
 
 #pragma warning disable 618
 [RequireComponent(typeof (Image))]
